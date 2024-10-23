@@ -9,11 +9,11 @@ My journey in cybersecurity has led me to develop a passion for cybersecurity, I
 
 ## TOOLS USED
 
-Network Investigative Tools: Nmap Nessus, Wireshark, Tcpdump, Snort, InSSIDer, Netcat
+Network Investigative Tools: Nmap, Wireshark
 
-SIEM Tools:
+SIEM Tools: 
 
-Password Cracking Tools: Hashcat, Aircrack-ng, Cain & Abel, Hydra, Metasploit, John the Ripper
+Password Cracking Tools: Hashcat
 
 Digital Forensic Investigative Tools: AccessData Forensic Tool Kit, Cellebrite UFED Physical Analyzer, SQLiteStudio, Hashdeep,
 Scalpel, ImageMagick, Foxton Forensics Browser History Viewer, Foremost, Arsenal Image Mounter, KAPE, AXIOM, Registry
