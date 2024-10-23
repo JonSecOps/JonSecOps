@@ -5,7 +5,7 @@ I'm an MSIT graduate student with a strong passion for cybersecurity. Constantly
 
 ## OBJECTIVE
 
-My journey in cybersecurity has led me to develop a passion for cybersecurity and I aim to leverage my education, certifications, and experience towards SOC Analysts and DFIR roles.
+My journey in cybersecurity has led me to develop a passion for cybersecurity, I aim to leverage my education, certifications, and experience towards SOC Analysts and DFIR roles.
 
 ## TOOLS USED
 
