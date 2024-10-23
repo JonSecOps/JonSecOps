@@ -19,7 +19,7 @@ Digital Forensic Investigative Tools: AccessData Forensic Tool Kit, Cellebrite U
 Scalpel, ImageMagick, Foxton Forensics Browser History Viewer, Foremost, Arsenal Image Mounter, KAPE, AXIOM, Registry
 Explorer
 
-Artificial Intelligence: ChatGPT
+Artificial Intelligence: ChatGPT, Gemini
 
 ## PROJECTS
 
