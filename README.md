@@ -11,7 +11,7 @@ My journey in cybersecurity has led me to develop a passion for cybersecurity, I
 
 Network Investigative Tools: Nmap, Wireshark
 
-SIEM Tools: 
+SIEM Tools: Splunk
 
 Password Cracking Tools: Hashcat
 
