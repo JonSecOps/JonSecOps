@@ -25,6 +25,7 @@ Artificial Intelligence: ChatGPT, Gemini
 
 - Vulnerability and Exploitation Project
 - USB Forensics Project
+- Forensic Image Carving and Metadata Project
 
 ## CERTIFICATIONS
 
