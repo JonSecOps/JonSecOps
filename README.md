@@ -23,6 +23,7 @@ Artificial Intelligence: ChatGPT, Gemini
 
 ## PROJECTS
 
+- Vulnerability and Exploitation Project
 - Replication of the 2015 Ukraine Power Grid Attack
 - Atomic Red Team Lab 
 - Nmap Lab
