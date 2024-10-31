@@ -1,11 +1,7 @@
 ## ABOUT ME
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/jmcbride7634/)
 
-I'm an MSIT graduate student with a strong passion for cybersecurity. Constantly driven by curiosity and a desire to enhance my skill set, I’m always seeking new projects and challenges to further develop my expertise in areas such as threat detection, incident response, and digital forensics.
-
-## OBJECTIVE
-
-My journey in cybersecurity has led me to develop a passion for cybersecurity, I aim to leverage my education, certifications, and experience toward SOC Analysts and DFIR roles.
+I'm an MSIT graduate student with a strong passion for cybersecurity. I'm driven by curiosity and a desire to enhance my skill set and I am always seeking new projects and challenges to further develop my expertise in areas such as threat detection, incident response, and digital forensics.
 
 ## TOOLS USED
 
