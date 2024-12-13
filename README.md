@@ -27,8 +27,11 @@ Explorer
 - Forensic Image Carving and Metadata Project
 
 ## CERTIFICATIONS
-
 GSEC, GCIH, GCFE, SEC+, ISC2 CC
+
+
+**Check out my certifications on [Credly](https://www.credly.com/users/jonathan-mcbride.9c73a063).**
+
 
 
 
