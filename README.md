@@ -21,7 +21,7 @@ Explorer
 
 ## PROJECTS
 
-- (In Progress) SIEM Project
+- SIEM / Active Directory / Brute Force Password Attack Project
 - Vulnerability and Exploitation Project
 - USB Forensics Project
 - Forensic Image Carving and Metadata Project
