@@ -21,6 +21,7 @@ Explorer
 
 ## PROJECTS
 
+- IN PROGRESS: SIEM / Atomic Red Team Exploits
 - SIEM / Active Directory / Brute Force Password Attack Project
 - Vulnerability and Exploitation Project
 - USB Forensics Project
