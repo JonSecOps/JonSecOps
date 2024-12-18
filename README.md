@@ -7,11 +7,11 @@ I'm an MSIT graduate student with a strong passion for cybersecurity. I'm driven
 
 **Network Investigative Tools:** Nmap, Wireshark 
 
-**SIEM Tools:** Splunk
+**SIEM Tools:** Splunk, Microsoft Sentinel
 
 **Password Cracking Tools:** Hashcat
 
-**Red Team Tools:** Metasploit
+**Red Team Tools:** Metasploit, Atomic Red Team
 
 **Digital Forensic Investigative Tools:** AccessData Forensic Tool Kit, Cellebrite UFED Physical Analyzer, SQLiteStudio, Hashdeep,
 Scalpel, ImageMagick, Foxton Forensics Browser History Viewer, Foremost, Arsenal Image Mounter, KAPE, AXIOM, Registry
