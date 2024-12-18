@@ -21,7 +21,7 @@ Explorer
 
 ## PROJECTS
 
-- IN PROGRESS: SIEM / MITRE Framework / Atomic Red Team Exploits Project
+- SIEM / MITRE Framework / Atomic Red Team Exploits Project
 - SIEM / Active Directory / Brute Force Password Attack Project
 - Vulnerability and Exploitation Project
 - USB Forensics Project
