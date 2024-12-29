@@ -26,7 +26,7 @@ Explorer
 - DOE/ORNL Power Grid Project
 - [Vulnerability and Exploitation Project](https://github.com/JonSecOps/Vulnerability-and-Exploitation-Project)
 - [USB Forensics Project](https://github.com/JonSecOps/USB-Forensics-Project)
-- Forensic Image Carving and Metadata Project
+- [Forensic Image Carving and Metadata Project](https://github.com/JonSecOps/Forensic-Image-Carving-and-Metadata-Project)
 
 ## CERTIFICATIONS
 GSEC, GCIH, GCFE, SEC+, ISC2 CC
