@@ -1,7 +1,7 @@
 ## ABOUT ME
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/jmcbride7634/)
 
-I'm a cybersecurity apprentice and MSIT graduate student with a strong passion for cybersecurity. I'm driven by curiosity and a desire to enhance my skill set and I am always seeking new projects and challenges to further develop my expertise in areas such as SOC threat detection, incident response, and digital forensics. 
+I'm a cybersecurity apprentice and MSIT graduate student with a strong passion for cybersecurity. I'm driven by curiosity and always seeking new projects and challenges to further develop my expertise in areas such as SOC threat detection, incident response, and digital forensics. 
 
 - 🔭 I’m currently working on completing an emerging threats project, learning Microsoft Sentinel & Defender via Udemy, and KQL language.
 - 🌱 I’m currently learning Microsoft Sentinel & Defender.
