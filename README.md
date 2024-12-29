@@ -25,7 +25,7 @@ Explorer
 - [SIEM / Active Directory / Brute Force Password Attack Project](https://github.com/JonSecOps/SIEM-Active-Directory-Brute-Force-Password-Attack-Project)
 - DOE/ORNL Power Grid Project
 - [Vulnerability and Exploitation Project](https://github.com/JonSecOps/Vulnerability-and-Exploitation-Project)
-- USB Forensics Project
+- [USB Forensics Project](https://github.com/JonSecOps/USB-Forensics-Project)
 - Forensic Image Carving and Metadata Project
 
 ## CERTIFICATIONS
