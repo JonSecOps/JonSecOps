@@ -23,7 +23,7 @@ Explorer
 
 - [SIEM / MITRE Framework / Atomic Red Team Exploits Project](https://github.com/JonSecOps/SIEM-MITRE-Framework-Atomic-Red-Team-Exploit-Project)
 - [SIEM / Active Directory / Brute Force Password Attack Project](https://github.com/JonSecOps/SIEM-Active-Directory-Brute-Force-Password-Attack-Project)
-- DOE/ORNL Power Grid Project
+- [DOE/ORNL Power Grid Project](https://github.com/JonSecOps/DOE-ORNL-Power-Grid-Project)
 - [Vulnerability and Exploitation Project](https://github.com/JonSecOps/Vulnerability-and-Exploitation-Project)
 - [USB Forensics Project](https://github.com/JonSecOps/USB-Forensics-Project)
 - [Forensic Image Carving and Metadata Project](https://github.com/JonSecOps/Forensic-Image-Carving-and-Metadata-Project)
