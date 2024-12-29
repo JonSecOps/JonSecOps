@@ -22,7 +22,7 @@ Explorer
 ## PROJECTS
 
 - [SIEM / MITRE Framework / Atomic Red Team Exploits Project](https://github.com/JonSecOps/SIEM-MITRE-Framework-Atomic-Red-Team-Exploit-Project)
-- SIEM / Active Directory / Brute Force Password Attack Project
+- [SIEM / Active Directory / Brute Force Password Attack Project](https://github.com/JonSecOps/SIEM-Active-Directory-Brute-Force-Password-Attack-Project)
 - DOE/ORNL Power Grid Project
 - Vulnerability and Exploitation Project
 - USB Forensics Project
