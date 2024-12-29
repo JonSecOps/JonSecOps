@@ -6,7 +6,7 @@ I'm a cybersecurity apprentice and MSIT graduate student with a strong passion f
 - 🔭 I’m currently working on completing an emerging threats project, learning Microsoft Sentinel & Defender via Udemy, and KQL language.
 - 🌱 I’m currently learning Microsoft Sentinel & Defender.
 - 👯 I’m looking to collaborate on new cybersecurity projects.
-- 🤔 I’m looking for help with furthering my network and collaborate with others in cybersecurity.
+- 🤔 I’m looking for help with furthering my network and collaborating with others in cybersecurity.
 - 📫 How to reach me: jonmcbride15@gmail.com or via [LinkedIn](https://www.linkedin.com/in/jmcbride7634/)
 - ⚡ Fun fact: I enjoy old video games for Sega Genesis and Nintendo.
 
