@@ -1,7 +1,14 @@
 ## ABOUT ME
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/jmcbride7634/)
 
-I'm a cybersecurity apprentice and MSIT graduate student with a strong passion for cybersecurity. I'm driven by curiosity and a desire to enhance my skill set and I am always seeking new projects and challenges to further develop my expertise in areas such as threat detection, incident response, and digital forensics. Currently, Im working on an SIEM project utilizing Splunk to develop telemetry of attacks deployed from atomic red team exploits while utilizing the MITRE Attack Framework and completing a Microsoft Sentinel & Defender course via Udemy. 
+I'm a cybersecurity apprentice and MSIT graduate student with a strong passion for cybersecurity. I'm driven by curiosity and a desire to enhance my skill set and I am always seeking new projects and challenges to further develop my expertise in areas such as SOC threat detection, incident response, and digital forensics. 
+
+- 🔭 I’m currently working on completing an emerging threats project and learning Microsoft Sentinel & Defender via Udemy.
+- 🌱 I’m currently learning Microsoft Sentinel & Defender.
+- 👯 I’m looking to collaborate on new cybersecurity projects.
+- 🤔 I’m looking for help with furthering my network and collaborate with others in cybersecurity.
+- 📫 How to reach me: jonmcbride15@gmail.com or via [LinkedIn](https://www.linkedin.com/in/jmcbride7634/)
+- ⚡ Fun fact: I enjoy old video games for Sega and Nintendo.
 
 ## TOOLS USED
 
