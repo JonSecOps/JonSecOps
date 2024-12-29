@@ -23,6 +23,7 @@ Explorer
 
 - SIEM / MITRE Framework / Atomic Red Team Exploits Project
 - SIEM / Active Directory / Brute Force Password Attack Project
+- DOE/ORNL Power Grid Project
 - Vulnerability and Exploitation Project
 - USB Forensics Project
 - Forensic Image Carving and Metadata Project
