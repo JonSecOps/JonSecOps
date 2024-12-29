@@ -3,7 +3,7 @@
 
 I'm a cybersecurity apprentice and MSIT graduate student with a strong passion for cybersecurity. I'm driven by curiosity and a desire to enhance my skill set and I am always seeking new projects and challenges to further develop my expertise in areas such as SOC threat detection, incident response, and digital forensics. 
 
-- 🔭 I’m currently working on completing an emerging threats project and learning Microsoft Sentinel & Defender via Udemy.
+- 🔭 I’m currently working on completing an emerging threats project, learning Microsoft Sentinel & Defender via Udemy, and KQL language.
 - 🌱 I’m currently learning Microsoft Sentinel & Defender.
 - 👯 I’m looking to collaborate on new cybersecurity projects.
 - 🤔 I’m looking for help with furthering my network and collaborate with others in cybersecurity.
