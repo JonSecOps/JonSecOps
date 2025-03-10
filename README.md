@@ -1,7 +1,7 @@
 ## ABOUT ME
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/jmcbride7634/)
 
-I'm a cybersecurity apprentice and MSIT graduate student with a strong passion for cybersecurity. I'm driven by curiosity and always seeking new projects and challenges to further develop my expertise in areas such as SOC threat detection, incident response, and digital forensics. 
+I'm a cyber threat intelligence intern, cybersecurity apprentice, and MSIT graduate student with a strong passion for cybersecurity. I'm driven by curiosity and always seeking new projects and challenges to further develop my expertise in areas such as SOC operations,  threat detection, incident response, and digital forensics. 
 
 - 🔭 I’m currently working on completing an emerging threats project, learning Microsoft Sentinel & Defender via Udemy, and KQL language.
 - 🌱 I’m currently learning Microsoft Sentinel & Defender.
@@ -14,7 +14,7 @@ I'm a cybersecurity apprentice and MSIT graduate student with a strong passion f
 
 **Network Investigative Tools:** Nmap, Wireshark 
 
-**SIEM Tools:** Splunk, Microsoft Sentinel
+**SIEM Tools:** Splunk, Microsoft Sentinel, Microsoft Defender
 
 **Password Cracking Tools:** Hashcat
 
@@ -24,7 +24,13 @@ I'm a cybersecurity apprentice and MSIT graduate student with a strong passion f
 Scalpel, ImageMagick, Foxton Forensics Browser History Viewer, Foremost, Arsenal Image Mounter, KAPE, AXIOM, Registry
 Explorer
 
+**Operating Systems:** Windows, Linux, Ubuntu
+
+**Cloud Enviroments:** AWS, Azure
+
 **Artificial Intelligence:** ChatGPT, Gemini
+
+**Frameworks:** MITRE ATT&CK, MITRE D3FEND, Cyber Kill Chain, Pyramid of Pain, ICS Kill Chain
 
 ## PROJECTS
 
