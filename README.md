@@ -1,10 +1,10 @@
 ## ABOUT ME
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/jmcbride7634/)
 
-I'm a cyber threat intelligence intern, cybersecurity apprentice, and MSIT graduate student with a strong passion for cybersecurity. I'm driven by curiosity and always seeking new projects and challenges to further develop my expertise in areas such as SOC operations,  threat detection, incident response, and digital forensics. 
+I'm a cyber threat intelligence intern, cybersecurity apprentice, and MSIT graduate student with a strong passion for cybersecurity. I'm driven by curiosity and always seeking new projects and challenges to further develop my expertise in areas such as SOC operations, threat detection, incident response, and digital forensics. 
 
-- 🔭 I’m currently working on completing an emerging threats project, learning Microsoft Sentinel & Defender via Udemy, and KQL language.
-- 🌱 I’m currently learning Microsoft Sentinel & Defender.
+- 🔭 I’m currently working on completing an emerging threats project, learning Microsoft Sentinel & Defender via Udemy.
+- 🌱 I’m currently learning Microsoft Sentinel & Defender and PowerShell.
 - 👯 I’m looking to collaborate on new cybersecurity projects.
 - 🤔 I’m looking for help with furthering my network and collaborating with others in cybersecurity.
 - 📫 How to reach me: jonmcbride15@gmail.com or via [LinkedIn](https://www.linkedin.com/in/jmcbride7634/)
@@ -19,10 +19,6 @@ I'm a cyber threat intelligence intern, cybersecurity apprentice, and MSIT gradu
 **Password Cracking Tools:** Hashcat
 
 **Red Team Tools:** Metasploit, Atomic Red Team
-
-**Digital Forensic Investigative Tools:** AccessData Forensic Tool Kit, Cellebrite UFED Physical Analyzer, SQLiteStudio, Hashdeep,
-Scalpel, ImageMagick, Foxton Forensics Browser History Viewer, Foremost, Arsenal Image Mounter, KAPE, AXIOM, Registry
-Explorer
 
 **Operating Systems:** Windows, Linux, Ubuntu
 
