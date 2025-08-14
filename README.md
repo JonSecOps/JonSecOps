@@ -3,7 +3,8 @@
 
 I'm a cyber threat intelligence intern, cybersecurity apprentice, and MSIT graduate student with a strong passion for cybersecurity. I'm driven by curiosity and always seeking new projects and challenges to further develop my expertise in areas such as SOC operations, threat detection, incident response, and digital forensics. 
 
-- 🔭 I’m currently working on completing an emerging threats project, learning Microsoft Sentinel & Defender via Udemy.
+- 🔭 I’m currently working on obtaining the Practical SOC Analyst Associate Certification from TCM Security.
+- 🌱 I’m currently enrolled in the TCM Security SOC Analyst course.
 - 🌱 I’m currently learning Microsoft Sentinel & Defender and PowerShell.
 - 👯 I’m looking to collaborate on new cybersecurity projects.
 - 🤔 I’m looking for help with furthering my network and collaborating with others in cybersecurity.
@@ -12,21 +13,27 @@ I'm a cyber threat intelligence intern, cybersecurity apprentice, and MSIT gradu
 
 ## TOOLS USED
 
-**Network Investigative Tools:** Nmap, Wireshark 
+- **SOC Analysis Tools:** CyberChef, VirusTotal, Whois, Microsoft Sentinel, Microsoft Defender, Splunk
+- **Phishing Analysis Tools:** URLScan.io, PhishTool, Email Header Analyzer, UrlVoid
+- **Network Investigative Tools:** Nmap, Wireshark, Snort 
+- **Digital Forensic Tools:** Autopsy, FTK Imager, Volatility, Magnet AXIOM
+- **Password Cracking Tools:** Hashcat
+- **Red Team Tools:** Metasploit, Atomic Red Team
+- **Operating Systems:** Windows, Linux, Ubuntu
+- **Cloud Environments:** Azure
+- **Frameworks:** MITRE ATT&CK, MITRE D3FEND, Cyber Kill Chain, Pyramid of Pain, ICS Kill Chain
+- **Artificial Intelligence:** ChatGPT, Gemini
 
-**SIEM Tools:** Splunk, Microsoft Sentinel, Microsoft Defender
+## CORE COMPETENCIES
 
-**Password Cracking Tools:** Hashcat
+- Incident detection, response, and resolution
+- Threat intelligence & adversary tactic analysis
+- Digital forensics, triage, and evidence acquisition
+- Network defense, protocols, and system hardening
+- Endpoint and cloud security
+- Risk management & threat analysis
+- Business continuity & disaster recovery (BC/DR)
 
-**Red Team Tools:** Metasploit, Atomic Red Team
-
-**Operating Systems:** Windows, Linux, Ubuntu
-
-**Cloud Enviroments:** AWS, Azure
-
-**Artificial Intelligence:** ChatGPT, Gemini
-
-**Frameworks:** MITRE ATT&CK, MITRE D3FEND, Cyber Kill Chain, Pyramid of Pain, ICS Kill Chain
 
 ## PROJECTS
 
