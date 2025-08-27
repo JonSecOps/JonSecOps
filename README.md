@@ -1,7 +1,7 @@
 ## ABOUT ME
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/jmcbride7634/)
 
-I'm a cyber threat intelligence intern, cybersecurity apprentice, and MSIT graduate student with a strong passion for cybersecurity. I'm driven by curiosity and always seeking new projects and challenges to further develop my expertise in areas such as SOC operations, threat detection, incident response, and digital forensics. 
+I'm a cybersecurity . I'm driven by curiosity and always seeking new projects and challenges to further develop my expertise in areas such as SOC operations, threat detection, incident response, and digital forensics. 
 
 - 🔭 I’m currently working on obtaining the Practical SOC Analyst Associate Certification from TCM Security.
 - 🌱 I’m currently enrolled in the TCM Security SOC Analyst course.
@@ -13,7 +13,7 @@ I'm a cyber threat intelligence intern, cybersecurity apprentice, and MSIT gradu
 
 ## TOOLS USED
 
-- **SOC Analysis Tools:** CyberChef, VirusTotal, Whois, Microsoft Sentinel, Microsoft Defender, Splunk
+- **SOC Analysis Tools:** CyberChef, VirusTotal, Whois, Microsoft Sentinel, Microsoft Defender, Splunk, LimaCharlie
 - **Phishing Analysis Tools:** URLScan.io, PhishTool, Email Header Analyzer, UrlVoid
 - **Network Investigative Tools:** Nmap, Wireshark, Snort 
 - **Digital Forensic Tools:** Autopsy, FTK Imager, Volatility, Magnet AXIOM
