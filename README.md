@@ -1,7 +1,7 @@
 ## ABOUT ME
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/jmcbride7634/)
 
-I'm a cybersecurity . I'm driven by curiosity and always seeking new projects and challenges to further develop my expertise in areas such as SOC operations, threat detection, incident response, and digital forensics. 
+I'm a cybersecurity professional driven by curiosity and always seeking new projects and challenges to further develop my expertise in areas such as SOC operations, threat detection, incident response, and digital forensics. I enjoy applying hands-on skills to real-world scenarios, building labs, and exploring emerging threats to strengthen defensive strategies. My goal is to contribute to securing critical systems while continuously learning, sharing knowledge, and advancing in the cybersecurity field.
 
 - 🔭 I’m currently working on obtaining the Practical SOC Analyst Associate Certification from TCM Security.
 - 🌱 I’m currently enrolled in the TCM Security SOC Analyst course.
