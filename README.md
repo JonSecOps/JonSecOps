@@ -16,6 +16,7 @@ I'm a cybersecurity professional driven by curiosity and always seeking new proj
 - **Phishing Analysis Tools:** URLScan.io, PhishTool, Email Header Analyzer, UrlVoid
 - **Network Investigative Tools:** Nmap, Wireshark, Snort 
 - **Digital Forensic Tools:** Autopsy, FTK Imager, Volatility, Magnet AXIOM
+- **Malware Investigative Tools:** Regshot
 - **Password Cracking Tools:** Hashcat
 - **Red Team Tools:** Metasploit, Atomic Red Team
 - **Operating Systems:** Windows, Linux, Ubuntu
