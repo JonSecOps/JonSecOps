@@ -19,6 +19,7 @@ I'm a cybersecurity professional driven by curiosity and always seeking new proj
 - **Malware Investigative Tools:** Regshot
 - **Password Cracking Tools:** Hashcat
 - **Red Team Tools:** Metasploit, Atomic Red Team
+- **SysInternal Suite:** Process Monitor, Process Tree
 - **Operating Systems:** Windows, Linux, Ubuntu
 - **Cloud Environments:** Azure
 - **Frameworks:** MITRE ATT&CK, MITRE D3FEND, Cyber Kill Chain, Pyramid of Pain, ICS Kill Chain
