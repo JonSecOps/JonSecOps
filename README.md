@@ -45,6 +45,7 @@ SOC ANALYSIS PROJECTS:
 
 DIGITAL FORENSIC PROJECTS:
 
+- [Forensic Analysis of Apple IoT Devices](https://github.com/JonSecOps/Forensic-Analysis-of-Apple-IoT-Devices)
 - [USB Forensics Project](https://github.com/JonSecOps/USB-Forensics-Project)
 - [Forensic Image Carving and Metadata Project](https://github.com/JonSecOps/Forensic-Image-Carving-and-Metadata-Project)
 
