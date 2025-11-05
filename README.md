@@ -1,14 +1,20 @@
 ## ABOUT ME
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/jmcbride7634/)
 
-I'm a cybersecurity professional driven by curiosity and always seeking new projects and challenges to further develop my expertise in areas such as SOC operations, threat detection, incident response, and digital forensics. I enjoy applying hands-on skills to real-world scenarios, building labs, and exploring emerging threats to strengthen defensive strategies. My goal is to contribute to securing systems, conduct cyber investigations, and continuously expand my expertise while sharing knowledge and advancing within the cybersecurity field.
+🛡️ Cybersecurity Analyst | 🧠 Incident Response & Digital Forensics | ⚙️ SOC Operations Enthusiast
 
-- 🔭 I’m currently working on obtaining the Practical SOC Analyst Associate Certification from TCM Security.
-- 🌱 I’m currently recertifying my GIAC certifications and obtaining current knowledge in incident response and digital forensics. 
-- 👯 I’m looking to collaborate on new cybersecurity projects.
-- 🤔 I’m looking for help with furthering my network and collaborating with others in cybersecurity.
-- 📫 How to reach me: jonmcbride15@gmail.com or via [LinkedIn](https://www.linkedin.com/in/jmcbride7634/)
-- ⚡ Fun fact: I enjoy old video games for Sega Genesis and Nintendo.
+🚀 I secure, analyze, and defend systems through hands-on threat detection, incident response, and digital forensics. My work blends technical precision with curiosity-driven exploration to uncover, understand, and mitigate cyber threats.
+
+💻 Core Focus: SOC operations, network forensics, incident handling, and adversary emulation
+🔍 Tools & Tech: Splunk, Wireshark, Metasploit, Nmap, Python, Linux, and Windows environments
+🧩 Passion Projects: Building cybersecurity labs, simulating attacks, and analyzing emerging TTPs using the MITRE ATT&CK framework
+
+🌍 Open to collaborating on:
+• Threat detection and DFIR projects
+• SOC automation and hunt workflows
+• Research on emerging threats and adversary behavior
+
+🔥 Always learning. Always defending. Always improving. 💯
 
 ## PROJECTS
 **SOC ANALYSIS PROJECTS:**
