@@ -5,8 +5,7 @@
 
 🚀 I secure, analyze, and defend systems through hands-on threat detection, incident response, and digital forensics. My work blends technical precision with curiosity-driven exploration to uncover, understand, and mitigate cyber threats.
 
-💻 Core Focus: SOC operations, network forensics, incident handling, and adversary emulation
-🔍 Tools & Tech: Splunk, Wireshark, Metasploit, Nmap, Python, Linux, and Windows environments
+💻 Core Focus: Forensics, SOC operations, incident handling, and adversary emulation
 🧩 Passion Projects: Building cybersecurity labs, simulating attacks, and analyzing emerging TTPs using the MITRE ATT&CK framework
 
 🌍 Open to collaborating on:
