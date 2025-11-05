@@ -40,7 +40,7 @@ I'm a cybersecurity professional driven by curiosity and always seeking new proj
 ## PROJECTS
 SOC ANALYSIS PROJECTS:
 
-- [SIEM / MITRE Framework / Atomic Red Team Exploits Project](https://github.com/JonSecOps/SIEM-MITRE-Framework-Atomic-Red-Team-Exploit-Project)
+- [Detecting Local Account Creation (T1136.001) with Atomic Red Team and Splunk](https://github.com/JonSecOps/Detecting-Local-Account-Creation-T1136.001-with-Atomic-Red-Team-and-Splunk/blob/main/Detecting%20Local%20Account%20Creation%20(T1136.001)%20with%20Atomic%20Red%20Team%20and%20Splunk.pdf)
 - [SIEM / Active Directory / Brute Force Password Attack Project](https://github.com/JonSecOps/SIEM-Active-Directory-Brute-Force-Password-Attack-Project)
 
 DIGITAL FORENSIC PROJECTS:
