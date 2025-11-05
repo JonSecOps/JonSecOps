@@ -54,7 +54,7 @@ DIGITAL FORENSIC PROJECTS:
   
 VULNERABILITY ANALYSIS PROJECTS:
 - [Simulating Industrial Control System Kill Chain Attacks to Harden Power Grid Infrastructure](https://github.com/JonSecOps/Simulating-Industrial-Control-System-Kill-Chain-Attacks-to-Harden-Power-Grid-Infrastructure)
-- [Exploiting Common Service Vulnerabilities to Demonstrate Security Risks](https://github.com/JonSecOps/Vulnerability-and-Exploitation-Project)
+- [Exploiting Common Service Vulnerabilities to Demonstrate Security Risks](https://github.com/JonSecOps/Exploiting-Common-Service-Vulnerabilities-to-Demonstrate-Security-Risks)
 
 CYBER THREAT INTELLIGENCE PROJECTS: (IN PROGRESS)
 
