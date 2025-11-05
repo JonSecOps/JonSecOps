@@ -58,6 +58,7 @@ I'm a cybersecurity professional driven by curiosity and always seeking new proj
 
 **CYBER THREAT INTELLIGENCE PROJECTS:** (IN PROGRESS)
 
+
 ## CERTIFICATIONS
 GSEC, GCIH, GCFE, SEC+, ISC2 CC
 
