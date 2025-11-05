@@ -56,7 +56,7 @@ VULNERABILITY ANALYSIS PROJECTS:
 - [DOE/ORNL Power Grid Project](https://github.com/JonSecOps/DOE-ORNL-Power-Grid-Project)
 - [Vulnerability and Exploitation Project](https://github.com/JonSecOps/Vulnerability-and-Exploitation-Project)
 
-- CYBER THREAT INTELLIGENCE PROJECTS: (IN PROGRESS)
+CYBER THREAT INTELLIGENCE PROJECTS: (IN PROGRESS)
 
 ## CERTIFICATIONS
 GSEC, GCIH, GCFE, SEC+, ISC2 CC
