@@ -49,7 +49,8 @@ DIGITAL FORENSIC PROJECTS:
 - [USB Forensics Project](https://github.com/JonSecOps/USB-Forensics-Project)
 - [Forensic Image Carving and Metadata Project](https://github.com/JonSecOps/Forensic-Image-Carving-and-Metadata-Project)
 - [Forensic Analysis of a Suspect’s iPhone for Criminal Evidence Recovery](https://github.com/JonSecOps/Forensic-Analysis-of-a-Suspect-s-iPhone-for-Criminal-Evidence-Recovery)
-
+- [Password Recovery and Decryption using AccessData PRTK](https://github.com/JonSecOps/Password-Recovery-and-Decryption-using-AccessData-PRTK/tree/main)
+  
 VULNERABILITY ANALYSIS PROJECTS:
 - [DOE/ORNL Power Grid Project](https://github.com/JonSecOps/DOE-ORNL-Power-Grid-Project)
 - [Vulnerability and Exploitation Project](https://github.com/JonSecOps/Vulnerability-and-Exploitation-Project)
