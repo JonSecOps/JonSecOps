@@ -47,7 +47,7 @@ DIGITAL FORENSIC PROJECTS:
 
 - [Forensic Analysis of Apple IoT Devices](https://github.com/JonSecOps/Forensic-Analysis-of-Apple-IoT-Devices)
 - [Browser Artifact Analysis for Evidence Validation using Foxton Forensics Tools](https://github.com/JonSecOps/Browser-Artifact-Analysis-for-Evidence-Validation-using-Foxton-Forensics-Tools/blob/main/Browser%20Artifact%20Analysis%20for%20Evidence%20Validation%20using%20Foxton%20Forensics%20Tools.pdf)
-- [USB Forensics Project](https://github.com/JonSecOps/USB-Forensics-Project)
+- [USB Evidence Recovery and Analysis Using FTK Imager and Hex Tools](https://github.com/JonSecOps/USB-Evidence-Recovery-and-Analysis-Using-FTK-Imager-and-Hex-Tools)
 - [Forensic Image Carving and Metadata Project](https://github.com/JonSecOps/Forensic-Image-Carving-and-Metadata-Project)
 - [Forensic Analysis of a Suspect’s iPhone for Criminal Evidence Recovery](https://github.com/JonSecOps/Forensic-Analysis-of-a-Suspect-s-iPhone-for-Criminal-Evidence-Recovery)
 - [Password Recovery and Decryption using AccessData PRTK](https://github.com/JonSecOps/Password-Recovery-and-Decryption-using-AccessData-PRTK/tree/main)
