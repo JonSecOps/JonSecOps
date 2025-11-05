@@ -53,8 +53,8 @@ DIGITAL FORENSIC PROJECTS:
 - [Password Recovery and Decryption using AccessData PRTK](https://github.com/JonSecOps/Password-Recovery-and-Decryption-using-AccessData-PRTK/tree/main)
   
 VULNERABILITY ANALYSIS PROJECTS:
-- [DOE/ORNL Power Grid Project](https://github.com/JonSecOps/DOE-ORNL-Power-Grid-Project)
-- [Vulnerability and Exploitation Project](https://github.com/JonSecOps/Vulnerability-and-Exploitation-Project)
+- [Simulating Industrial Control System Kill Chain Attacks to Harden Power Grid Infrastructure](https://github.com/JonSecOps/Simulating-Industrial-Control-System-Kill-Chain-Attacks-to-Harden-Power-Grid-Infrastructure)
+- [Exploiting Common Service Vulnerabilities to Demonstrate Security Risks](https://github.com/JonSecOps/Vulnerability-and-Exploitation-Project)
 
 CYBER THREAT INTELLIGENCE PROJECTS: (IN PROGRESS)
 
