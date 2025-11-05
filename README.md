@@ -10,6 +10,28 @@ I'm a cybersecurity professional driven by curiosity and always seeking new proj
 - 📫 How to reach me: jonmcbride15@gmail.com or via [LinkedIn](https://www.linkedin.com/in/jmcbride7634/)
 - ⚡ Fun fact: I enjoy old video games for Sega Genesis and Nintendo.
 
+## PROJECTS
+**SOC ANALYSIS PROJECTS:**
+
+- [Detecting Local Account Creation (T1136.001) with Atomic Red Team and Splunk](https://github.com/JonSecOps/Detecting-Local-Account-Creation-T1136.001-with-Atomic-Red-Team-and-Splunk)
+- [End-to-End Brute-Force Attack Simulation and Monitoring in an AD Environment](https://github.com/JonSecOps/End-to-End-Brute-Force-Attack-Simulation-and-Monitoring-in-an-AD-Environment/tree/main)
+
+**DIGITAL FORENSIC PROJECTS:**
+
+- [Forensic Analysis of Apple IoT Devices](https://github.com/JonSecOps/Forensic-Analysis-of-Apple-IoT-Devices)
+- [Browser Artifact Analysis for Evidence Validation using Foxton Forensics Tools](https://github.com/JonSecOps/Browser-Artifact-Analysis-for-Evidence-Validation-using-Foxton-Forensics-Tools/blob/main/Browser%20Artifact%20Analysis%20for%20Evidence%20Validation%20using%20Foxton%20Forensics%20Tools.pdf)
+- [USB Evidence Recovery and Analysis Using FTK Imager and Hex Tools](https://github.com/JonSecOps/USB-Evidence-Recovery-and-Analysis-Using-FTK-Imager-and-Hex-Tools)
+- [Recovery and Analysis of Digital Images Using EXIF Metadata for Case Investigations](https://github.com/JonSecOps/Recovery-and-Analysis-of-Digital-Images-Using-EXIF-Metadata-for-Case-Investigations)
+- [Forensic Analysis of a Suspect’s iPhone for Criminal Evidence Recovery](https://github.com/JonSecOps/Forensic-Analysis-of-a-Suspect-s-iPhone-for-Criminal-Evidence-Recovery)
+- [Password Recovery and Decryption using AccessData PRTK](https://github.com/JonSecOps/Password-Recovery-and-Decryption-using-AccessData-PRTK/tree/main)
+  
+**VULNERABILITY ANALYSIS PROJECTS:**
+- [Simulating Industrial Control System Kill Chain Attacks to Harden Power Grid Infrastructure](https://github.com/JonSecOps/Simulating-Industrial-Control-System-Kill-Chain-Attacks-to-Harden-Power-Grid-Infrastructure)
+- [Exploiting Common Service Vulnerabilities to Demonstrate Security Risks](https://github.com/JonSecOps/Exploiting-Common-Service-Vulnerabilities-to-Demonstrate-Security-Risks)
+
+**CYBER THREAT INTELLIGENCE PROJECTS:** (IN PROGRESS)
+
+
 ## TOOLS USED
 
 - **SOC Analysis Tools:** CyberChef, VirusTotal, Whois, Microsoft Sentinel, Microsoft Defender, Splunk, LimaCharlie
@@ -35,29 +57,6 @@ I'm a cybersecurity professional driven by curiosity and always seeking new proj
 - Endpoint and cloud security
 - Risk management & threat analysis
 - Business continuity & disaster recovery (BC/DR)
-
-
-## PROJECTS
-**SOC ANALYSIS PROJECTS:**
-
-- [Detecting Local Account Creation (T1136.001) with Atomic Red Team and Splunk](https://github.com/JonSecOps/Detecting-Local-Account-Creation-T1136.001-with-Atomic-Red-Team-and-Splunk)
-- [End-to-End Brute-Force Attack Simulation and Monitoring in an AD Environment](https://github.com/JonSecOps/End-to-End-Brute-Force-Attack-Simulation-and-Monitoring-in-an-AD-Environment/tree/main)
-
-**DIGITAL FORENSIC PROJECTS:**
-
-- [Forensic Analysis of Apple IoT Devices](https://github.com/JonSecOps/Forensic-Analysis-of-Apple-IoT-Devices)
-- [Browser Artifact Analysis for Evidence Validation using Foxton Forensics Tools](https://github.com/JonSecOps/Browser-Artifact-Analysis-for-Evidence-Validation-using-Foxton-Forensics-Tools/blob/main/Browser%20Artifact%20Analysis%20for%20Evidence%20Validation%20using%20Foxton%20Forensics%20Tools.pdf)
-- [USB Evidence Recovery and Analysis Using FTK Imager and Hex Tools](https://github.com/JonSecOps/USB-Evidence-Recovery-and-Analysis-Using-FTK-Imager-and-Hex-Tools)
-- [Recovery and Analysis of Digital Images Using EXIF Metadata for Case Investigations](https://github.com/JonSecOps/Recovery-and-Analysis-of-Digital-Images-Using-EXIF-Metadata-for-Case-Investigations)
-- [Forensic Analysis of a Suspect’s iPhone for Criminal Evidence Recovery](https://github.com/JonSecOps/Forensic-Analysis-of-a-Suspect-s-iPhone-for-Criminal-Evidence-Recovery)
-- [Password Recovery and Decryption using AccessData PRTK](https://github.com/JonSecOps/Password-Recovery-and-Decryption-using-AccessData-PRTK/tree/main)
-  
-**VULNERABILITY ANALYSIS PROJECTS:**
-- [Simulating Industrial Control System Kill Chain Attacks to Harden Power Grid Infrastructure](https://github.com/JonSecOps/Simulating-Industrial-Control-System-Kill-Chain-Attacks-to-Harden-Power-Grid-Infrastructure)
-- [Exploiting Common Service Vulnerabilities to Demonstrate Security Risks](https://github.com/JonSecOps/Exploiting-Common-Service-Vulnerabilities-to-Demonstrate-Security-Risks)
-
-**CYBER THREAT INTELLIGENCE PROJECTS:** (IN PROGRESS)
-
 
 ## CERTIFICATIONS
 GSEC, GCIH, GCFE, SEC+, ISC2 CC
