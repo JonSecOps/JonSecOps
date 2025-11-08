@@ -31,7 +31,7 @@
 - [Password Recovery and Decryption using AccessData PRTK](https://github.com/JonSecOps/Password-Recovery-and-Decryption-using-AccessData-PRTK/tree/main)
   
 **VULNERABILITY ANALYSIS PROJECTS:**
-- [Simulating Industrial Control System Kill Chain Attacks to Harden Power Grid Infrastructure](https://github.com/JonSecOps/Simulating-Industrial-Control-System-Kill-Chain-Attacks-to-Harden-Power-Grid-Infrastructure)
+- [Power Grid Attack Simulation & Vulnerability Analysis](https://github.com/JonSecOps/Simulating-Industrial-Control-System-Kill-Chain-Attacks-to-Harden-Power-Grid-Infrastructure)
 - [Exploiting Common Service Vulnerabilities to Demonstrate Security Risks](https://github.com/JonSecOps/Exploiting-Common-Service-Vulnerabilities-to-Demonstrate-Security-Risks)
 
 **CYBER THREAT INTELLIGENCE PROJECTS:** (IN PROGRESS)
