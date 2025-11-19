@@ -15,6 +15,12 @@
 
 🔥 Always learning. Always defending. Always improving. 💯
 
+## CERTIFICATIONS
+GSEC, GCIH, GCFE, SEC+, ISC2 CC
+
+
+**Check out my certifications on [Credly](https://www.credly.com/users/jonathan-mcbride.9c73a063).**
+
 ## PROJECTS
 **SOC ANALYSIS PROJECTS:**
 
@@ -63,11 +69,7 @@
 - Risk management & threat analysis
 - Business continuity & disaster recovery (BC/DR)
 
-## CERTIFICATIONS
-GSEC, GCIH, GCFE, SEC+, ISC2 CC
 
-
-**Check out my certifications on [Credly](https://www.credly.com/users/jonathan-mcbride.9c73a063).**
 
 
 
