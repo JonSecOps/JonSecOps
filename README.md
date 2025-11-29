@@ -51,7 +51,7 @@ GSEC, GCIH, GCFE, SEC+, ISC2 CC
 - **Digital Forensic Tools:** Autopsy, FTK Imager, Volatility, Magnet AXIOM
 - **Malware Investigative Tools:** Regshot
 - **OSINT Tools:** SpiderFoot, Whois, Reverse Whois, ViewDNS.info, crt.sh, HaveIBeenPwned.com
-- **Password Cracking Tools:** Hashcat
+- **Password Cracking Tools:** Hydra, Hashcat
 - **Red Team Tools:** Metasploit, Atomic Red Team
 - **SysInternal Suite:** Process Monitor, Process Tree
 - **Operating Systems:** Windows, Linux, Ubuntu
