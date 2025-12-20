@@ -47,7 +47,7 @@ GSEC, GCIH, GCFE, SEC+, ISC2 CC
 
 - **SOC Analysis Tools:** CyberChef, VirusTotal, Whois, Microsoft Sentinel, Microsoft Defender, Splunk, LimaCharlie
 - **Phishing Analysis Tools:** URLScan.io, PhishTool, Email Header Analyzer, UrlVoid
-- **Network Investigative Tools:** Nmap, Wireshark, Snort 
+- **Network Investigation Tools:** Tcpdump, RITA, Zeek
 - **Digital Forensic Tools:** Autopsy, FTK Imager, Volatility, Magnet AXIOM
 - **Malware Investigative Tools:** Regshot
 - **OSINT Tools:** SpiderFoot, Whois, Reverse Whois, ViewDNS.info, crt.sh, HaveIBeenPwned.com
