@@ -1,7 +1,7 @@
 ## ABOUT ME
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/jmcbride7634/)
 
-🛡️ Cybersecurity Analyst | 🧠 Incident Response & Digital Forensics | ⚙️ SOC Operations Enthusiast
+🛡️ Cybersecurity Analyst | 🧠 Incident Response & Cyber Forensics | ⚙️ SOC Operations Enthusiast
 
 🚀 I secure, analyze, and defend systems through hands-on threat detection, incident response, and digital forensics. My work blends technical precision with curiosity-driven exploration to uncover, understand, and mitigate cyber threats.
 
