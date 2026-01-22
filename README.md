@@ -16,13 +16,12 @@ GSEC, GCIH, GCFE, SEC+, ISC2 CC
 **Check out my certifications on [Credly](https://www.credly.com/users/jonathan-mcbride.9c73a063).**
 
 ## PROJECTS
-**SOC ANALYSIS PROJECTS:**
+
 
 - [Detecting Local Account Creation (T1136.001) with Atomic Red Team and Splunk](https://github.com/JonSecOps/Detecting-Local-Account-Creation-T1136.001-with-Atomic-Red-Team-and-Splunk)
 - [End-to-End Brute-Force Attack Simulation and Monitoring in an AD Environment](https://github.com/JonSecOps/End-to-End-Brute-Force-Attack-Simulation-and-Monitoring-in-an-AD-Environment/tree/main)
-
-**CYBER FORENSIC PROJECTS:**
-
+- [Power Grid Attack Simulation & Vulnerability Analysis](https://github.com/JonSecOps/Simulating-Industrial-Control-System-Kill-Chain-Attacks-to-Harden-Power-Grid-Infrastructure)
+- [Exploiting Common Service Vulnerabilities to Demonstrate Security Risks](https://github.com/JonSecOps/Exploiting-Common-Service-Vulnerabilities-to-Demonstrate-Security-Risks)
 - [Forensic Analysis of Apple IoT Devices](https://github.com/JonSecOps/Forensic-Analysis-of-Apple-IoT-Devices)
 - [Browser Artifact Analysis for Evidence Validation using Foxton Forensics Tools](https://github.com/JonSecOps/Browser-Artifact-Analysis-for-Evidence-Validation-using-Foxton-Forensics-Tools/blob/main/Browser%20Artifact%20Analysis%20for%20Evidence%20Validation%20using%20Foxton%20Forensics%20Tools.pdf)
 - [USB Evidence Recovery and Analysis Using FTK Imager and Hex Tools](https://github.com/JonSecOps/USB-Evidence-Recovery-and-Analysis-Using-FTK-Imager-and-Hex-Tools)
@@ -30,13 +29,6 @@ GSEC, GCIH, GCFE, SEC+, ISC2 CC
 - [Forensic Analysis of a Suspect’s iPhone for Criminal Evidence Recovery](https://github.com/JonSecOps/Forensic-Analysis-of-a-Suspect-s-iPhone-for-Criminal-Evidence-Recovery)
 - [Password Recovery and Decryption using AccessData PRTK](https://github.com/JonSecOps/Password-Recovery-and-Decryption-using-AccessData-PRTK/tree/main)
   
-**VULNERABILITY ANALYSIS PROJECTS:**
-- [Power Grid Attack Simulation & Vulnerability Analysis](https://github.com/JonSecOps/Simulating-Industrial-Control-System-Kill-Chain-Attacks-to-Harden-Power-Grid-Infrastructure)
-- [Exploiting Common Service Vulnerabilities to Demonstrate Security Risks](https://github.com/JonSecOps/Exploiting-Common-Service-Vulnerabilities-to-Demonstrate-Security-Risks)
-
-**CYBER THREAT INTELLIGENCE PROJECTS:** (IN PROGRESS)
-
-
 ## TOOLS USED
 
 - **SOC Analysis Tools:** CyberChef, VirusTotal, Whois, Microsoft Sentinel, Microsoft Defender, Splunk, LimaCharlie
