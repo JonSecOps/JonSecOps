@@ -31,15 +31,14 @@ GSEC, GCIH, GCFE, SEC+, ISC2 CC
   
 ## TOOLS USED
 
-- **SOC Analysis Tools:** CyberChef, VirusTotal, Whois, Microsoft Sentinel, Microsoft Defender, Splunk, LimaCharlie
+- **SOC Analysis Tools:** CyberChef, VirusTotal, Whois, Microsoft Sentinel, Microsoft Defender, Splunk, LimaCharlie, sysinternal suite
 - **Phishing Analysis Tools:** URLScan.io, PhishTool, Email Header Analyzer, UrlVoid
-- **Network Investigation Tools:** Tcpdump, RITA, Zeek
+- **Network Investigation Tools:** Masscan, Nmap, Tcpdump, RITA, Zeek
 - **Digital Forensic Tools:** Autopsy, FTK Imager, Volatility, Magnet AXIOM
-- **Malware Investigative Tools:** Regshot
+- **Malware Investigative Tools:** Regshot, 
 - **OSINT Tools:** SpiderFoot, Whois, Reverse Whois, ViewDNS.info, crt.sh, HaveIBeenPwned.com
-- **Password Cracking Tools:** Hydra, Hashcat
+- **Password Cracking Tools:** Legba, Hydra, Hashcat
 - **Red Team Tools:** Metasploit, Atomic Red Team
-- **SysInternal Suite:** Process Monitor, Process Tree
 - **Operating Systems:** Windows, Linux, Ubuntu
 - **Cloud Environments:** Azure
 - **Frameworks:** MITRE ATT&CK, MITRE D3FEND, Cyber Kill Chain, Pyramid of Pain, ICS Kill Chain
