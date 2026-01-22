@@ -5,7 +5,7 @@
 
 🚀 I secure, analyze, and defend systems through hands-on threat detection, incident response, and digital forensics. My work blends technical precision with curiosity-driven exploration to uncover, understand, and mitigate cyber threats.
 
-💻 Core Focus: Digital Forensics, Incident Response, SOC operations
+💻 Core Focus: Cyber Forensics, Incident Response, SOC operations
 
 🔥 Always learning. Always defending. Always improving. 💯
 
@@ -21,7 +21,7 @@ GSEC, GCIH, GCFE, SEC+, ISC2 CC
 - [Detecting Local Account Creation (T1136.001) with Atomic Red Team and Splunk](https://github.com/JonSecOps/Detecting-Local-Account-Creation-T1136.001-with-Atomic-Red-Team-and-Splunk)
 - [End-to-End Brute-Force Attack Simulation and Monitoring in an AD Environment](https://github.com/JonSecOps/End-to-End-Brute-Force-Attack-Simulation-and-Monitoring-in-an-AD-Environment/tree/main)
 
-**DIGITAL FORENSIC PROJECTS:**
+**CYBER FORENSIC PROJECTS:**
 
 - [Forensic Analysis of Apple IoT Devices](https://github.com/JonSecOps/Forensic-Analysis-of-Apple-IoT-Devices)
 - [Browser Artifact Analysis for Evidence Validation using Foxton Forensics Tools](https://github.com/JonSecOps/Browser-Artifact-Analysis-for-Evidence-Validation-using-Foxton-Forensics-Tools/blob/main/Browser%20Artifact%20Analysis%20for%20Evidence%20Validation%20using%20Foxton%20Forensics%20Tools.pdf)
