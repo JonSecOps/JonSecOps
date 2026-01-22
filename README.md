@@ -6,12 +6,6 @@
 🚀 I secure, analyze, and defend systems through hands-on threat detection, incident response, and digital forensics. My work blends technical precision with curiosity-driven exploration to uncover, understand, and mitigate cyber threats.
 
 💻 Core Focus: Digital Forensics, Incident Response, SOC operations
-🧩 Passion Projects: Building cybersecurity labs, simulating attacks, and analyzing emerging TTPs using the MITRE ATT&CK framework
-
-🌍 Open to collaborating on:
-• Threat detection and DFIR projects
-• SOC automation and hunt workflows
-• Research on emerging threats and adversary behavior
 
 🔥 Always learning. Always defending. Always improving. 💯
 
