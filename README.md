@@ -1,5 +1,4 @@
 ## ABOUT ME
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/jmcbride7634/)
 
 🛡️ Cybersecurity Analyst | 🧠 Incident Response & Cyber Forensics | ⚙️ SOC Operations 
 
@@ -10,10 +9,7 @@
 🔥 Always learning. Always defending. Always improving. 💯
 
 ## CERTIFICATIONS
-GSEC, GCIH, GCFE, SEC+, ISC2 CC
-
-
-**Check out my certifications on [Credly](https://www.credly.com/users/jonathan-mcbride.9c73a063).**
+CompTIA SEC+
 
 ## PROJECTS
 
@@ -80,4 +76,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/jmcbride7634/)
 -->
