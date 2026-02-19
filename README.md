@@ -8,8 +8,6 @@
 
 🔥 Always learning. Always defending. Always improving. 💯
 
-## CERTIFICATIONS
-CompTIA Sec+
 
 ## PROJECTS
 
