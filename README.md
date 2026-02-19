@@ -29,13 +29,13 @@
 - **Phishing Analysis Tools:** URLScan.io, PhishTool, Email Header Analyzer, UrlVoid
 - **Network Investigation Tools:** Masscan, Nmap, Tcpdump, RITA, Zeek
 - **Digital Forensic Tools:** Autopsy, FTK Imager, Volatility, Magnet AXIOM
-- **Malware Investigative Tools:** Regshot, 
+- **Malware Investigative Tools:** Regshot, Malware Analysis, Reverse Engineering  
 - **OSINT Tools:** SpiderFoot, Whois, Reverse Whois, ViewDNS.info, crt.sh, HaveIBeenPwned.com
 - **Password Cracking Tools:** Legba, Hydra, Hashcat
 - **Red Team Tools:** Metasploit, Atomic Red Team
 - **Operating Systems:** Windows, Linux, Ubuntu
 - **Cloud Environments:** Azure
-- **Frameworks:** MITRE ATT&CK, MITRE D3FEND, Cyber Kill Chain, Pyramid of Pain, ICS Kill Chain
+- **Frameworks:** DAIR, DFIR Life Cycle, MITRE ATT&CK, MITRE D3FEND, Cyber Kill Chain, Pyramid of Pain, ICS Kill Chain
 - **Artificial Intelligence:** ChatGPT, Gemini
 
 ## CORE COMPETENCIES
