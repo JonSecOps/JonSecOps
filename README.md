@@ -10,7 +10,8 @@
 
 
 ## PROJECTS
--  [S3 Data Exfiltration Forensics](https://github.com/JonSecOps/S3-Data-Exfiltration-Forensics)
+- [Automated Cloud DFIR Pipeline](https://github.com/JonSecOps/Automated-Cloud-DFIR-Pipeline-)
+- [S3 Data Exfiltration Forensics](https://github.com/JonSecOps/S3-Data-Exfiltration-Forensics)
 - [Cloud Identity Compromise Investigation](https://github.com/JonSecOps/Cloud-Identity-Compromise-Investigation-)
 - [EC2 Incident Response Lifecycle](https://github.com/JonSecOps/EC2-INCIDENT-RESPONSE-LIFECYCLE)
 - [Detecting Local Account Creation (T1136.001) with Atomic Red Team and Splunk](https://github.com/JonSecOps/Detecting-Local-Account-Creation-T1136.001-with-Atomic-Red-Team-and-Splunk)
