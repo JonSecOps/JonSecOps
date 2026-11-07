@@ -33,15 +33,7 @@
 - **Frameworks:** DAIR, DFIR Life Cycle, MITRE ATT&CK, MITRE D3FEND, Cyber Kill Chain, Pyramid of Pain, ICS Kill Chain
 - **Artificial Intelligence:** ChatGPT, Gemini
 
-## CORE COMPETENCIES
 
-- Incident detection, response, and resolution
-- Threat intelligence & adversary tactic analysis
-- Digital forensics, triage, and evidence acquisition
-- Network defense, protocols, and system hardening
-- Endpoint and cloud security
-- Risk management & threat analysis
-- Business continuity & disaster recovery (BC/DR)
 
 
 
