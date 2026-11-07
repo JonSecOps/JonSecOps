@@ -20,20 +20,6 @@
 - [Exploiting Common Service Vulnerabilities to Demonstrate Security Risks](https://github.com/JonSecOps/Exploiting-Common-Service-Vulnerabilities-to-Demonstrate-Security-Risks)
 - [Forensic Analysis of Apple IoT Devices](https://github.com/JonSecOps/Forensic-Analysis-of-Apple-IoT-Devices)
   
-## TOOLS USED
-
-- **SOC Analysis Tools:** CyberChef, VirusTotal, Whois, Microsoft Sentinel, Microsoft Defender, Splunk, LimaCharlie, sysinternal suite
-- **Phishing Analysis Tools:** URLScan.io, PhishTool, Email Header Analyzer, UrlVoid
-- **Network Investigation Tools:** Masscan, Nmap, Tcpdump, RITA, Zeek
-- **Digital Forensic Tools:** Autopsy, FTK Imager, Volatility, Magnet AXIOM
-- **Malware Investigative Tools:** Regshot, Malware Analysis, Reverse Engineering  
-- **OSINT Tools:** SpiderFoot, Whois, Reverse Whois, ViewDNS.info, crt.sh, HaveIBeenPwned.com
-- **Password Cracking Tools:** Legba, Hydra, Hashcat
-- **Red Team Tools:** Metasploit, Atomic Red Team
-- **Operating Systems:** Windows, Linux, Ubuntu
-- **Cloud Environments:** Azure
-- **Frameworks:** DAIR, DFIR Life Cycle, MITRE ATT&CK, MITRE D3FEND, Cyber Kill Chain, Pyramid of Pain, ICS Kill Chain
-- **Artificial Intelligence:** ChatGPT, Gemini
 
 
 
@@ -51,6 +37,21 @@
 
 
 <!--
+
+## TOOLS USED
+
+- **SOC Analysis Tools:** CyberChef, VirusTotal, Whois, Microsoft Sentinel, Microsoft Defender, Splunk, LimaCharlie, sysinternal suite
+- **Phishing Analysis Tools:** URLScan.io, PhishTool, Email Header Analyzer, UrlVoid
+- **Network Investigation Tools:** Masscan, Nmap, Tcpdump, RITA, Zeek
+- **Digital Forensic Tools:** Autopsy, FTK Imager, Volatility, Magnet AXIOM
+- **Malware Investigative Tools:** Regshot, Malware Analysis, Reverse Engineering  
+- **OSINT Tools:** SpiderFoot, Whois, Reverse Whois, ViewDNS.info, crt.sh, HaveIBeenPwned.com
+- **Password Cracking Tools:** Legba, Hydra, Hashcat
+- **Red Team Tools:** Metasploit, Atomic Red Team
+- **Operating Systems:** Windows, Linux, Ubuntu
+- **Cloud Environments:** Azure
+- **Frameworks:** DAIR, DFIR Life Cycle, MITRE ATT&CK, MITRE D3FEND, Cyber Kill Chain, Pyramid of Pain, ICS Kill Chain
+- **Artificial Intelligence:** ChatGPT, Gemini
 
 [Browser Artifact Analysis for Evidence Validation using Foxton Forensics Tools](https://github.com/JonSecOps/Browser-Artifact-Analysis-for-Evidence-Validation-using-Foxton-Forensics-Tools/blob/main/Browser%20Artifact%20Analysis%20for%20Evidence%20Validation%20using%20Foxton%20Forensics%20Tools.pdf)
 - [USB Evidence Recovery and Analysis Using FTK Imager and Hex Tools](https://github.com/JonSecOps/USB-Evidence-Recovery-and-Analysis-Using-FTK-Imager-and-Hex-Tools)
