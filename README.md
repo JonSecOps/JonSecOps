@@ -1,13 +1,19 @@
-## ABOUT ME
+<div align="center">
 
-🛡️ Cybersecurity Analyst | 🧠 Incident Response & Cyber Forensics | ⚙️ SOC Operations 
+# 🛡️ Jonathan McBride **(GCFE, GCIH, GSEC)**
+### **Digital Forensics & Incident Response (DFIR) Analyst**
 
+</div>
+
+<div align="center">
+  
 🚀 I secure, analyze, and defend systems through hands-on threat detection, incident response, and digital forensics. My work blends technical precision with curiosity-driven exploration to uncover, understand, and mitigate cyber threats.
 
 💻 Core Focus: Cyber Forensics, Incident Response, SOC operations
 
 🔥 Always learning. Always defending. Always improving. 💯
 
+</div>
 
 ## PROJECTS
 - [Automated Cloud DFIR Pipeline](https://github.com/JonSecOps/Automated-Cloud-DFIR-Pipeline-)
