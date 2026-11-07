@@ -14,7 +14,7 @@
 
 - [Detecting Local Account Creation (T1136.001) with Atomic Red Team and Splunk](https://github.com/JonSecOps/Detecting-Local-Account-Creation-T1136.001-with-Atomic-Red-Team-and-Splunk)
 - [End-to-End Brute-Force Attack Simulation and Monitoring in an AD Environment](https://github.com/JonSecOps/End-to-End-Brute-Force-Attack-Simulation-and-Monitoring-in-an-AD-Environment/tree/main)
-- [Power Grid Attack Simulation & Vulnerability Analysis](https://github.com/JonSecOps/Simulating-Industrial-Control-System-Kill-Chain-Attacks-to-Harden-Power-Grid-Infrastructure)
+- [Simulated Ukrainian Power Grid Attack & DFIR Investigation](https://github.com/JonSecOps/Simulating-Industrial-Control-System-Kill-Chain-Attacks-to-Harden-Power-Grid-Infrastructure)
 - [Exploiting Common Service Vulnerabilities to Demonstrate Security Risks](https://github.com/JonSecOps/Exploiting-Common-Service-Vulnerabilities-to-Demonstrate-Security-Risks)
 - [Forensic Analysis of Apple IoT Devices](https://github.com/JonSecOps/Forensic-Analysis-of-Apple-IoT-Devices)
   
