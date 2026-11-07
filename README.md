@@ -17,11 +17,6 @@
 - [Power Grid Attack Simulation & Vulnerability Analysis](https://github.com/JonSecOps/Simulating-Industrial-Control-System-Kill-Chain-Attacks-to-Harden-Power-Grid-Infrastructure)
 - [Exploiting Common Service Vulnerabilities to Demonstrate Security Risks](https://github.com/JonSecOps/Exploiting-Common-Service-Vulnerabilities-to-Demonstrate-Security-Risks)
 - [Forensic Analysis of Apple IoT Devices](https://github.com/JonSecOps/Forensic-Analysis-of-Apple-IoT-Devices)
-- [Browser Artifact Analysis for Evidence Validation using Foxton Forensics Tools](https://github.com/JonSecOps/Browser-Artifact-Analysis-for-Evidence-Validation-using-Foxton-Forensics-Tools/blob/main/Browser%20Artifact%20Analysis%20for%20Evidence%20Validation%20using%20Foxton%20Forensics%20Tools.pdf)
-- [USB Evidence Recovery and Analysis Using FTK Imager and Hex Tools](https://github.com/JonSecOps/USB-Evidence-Recovery-and-Analysis-Using-FTK-Imager-and-Hex-Tools)
-- [Recovery and Analysis of Digital Images Using EXIF Metadata for Case Investigations](https://github.com/JonSecOps/Recovery-and-Analysis-of-Digital-Images-Using-EXIF-Metadata-for-Case-Investigations)
-- [Forensic Analysis of a Suspect’s iPhone for Criminal Evidence Recovery](https://github.com/JonSecOps/Forensic-Analysis-of-a-Suspect-s-iPhone-for-Criminal-Evidence-Recovery)
-- [Password Recovery and Decryption using AccessData PRTK](https://github.com/JonSecOps/Password-Recovery-and-Decryption-using-AccessData-PRTK/tree/main)
   
 ## TOOLS USED
 
@@ -62,6 +57,12 @@
 
 
 <!--
+
+[Browser Artifact Analysis for Evidence Validation using Foxton Forensics Tools](https://github.com/JonSecOps/Browser-Artifact-Analysis-for-Evidence-Validation-using-Foxton-Forensics-Tools/blob/main/Browser%20Artifact%20Analysis%20for%20Evidence%20Validation%20using%20Foxton%20Forensics%20Tools.pdf)
+- [USB Evidence Recovery and Analysis Using FTK Imager and Hex Tools](https://github.com/JonSecOps/USB-Evidence-Recovery-and-Analysis-Using-FTK-Imager-and-Hex-Tools)
+- [Recovery and Analysis of Digital Images Using EXIF Metadata for Case Investigations](https://github.com/JonSecOps/Recovery-and-Analysis-of-Digital-Images-Using-EXIF-Metadata-for-Case-Investigations)
+- [Forensic Analysis of a Suspect’s iPhone for Criminal Evidence Recovery](https://github.com/JonSecOps/Forensic-Analysis-of-a-Suspect-s-iPhone-for-Criminal-Evidence-Recovery)
+- [Password Recovery and Decryption using AccessData PRTK](https://github.com/JonSecOps/Password-Recovery-and-Decryption-using-AccessData-PRTK/tree/main)
 **JonSecOps/JonSecOps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
