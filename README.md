@@ -10,7 +10,7 @@
 
 
 ## PROJECTS
-- [Cloud Identity Compromise Investigation] (https://github.com/JonSecOps/Cloud-Identity-Compromise-Investigation-)
+- [Cloud Identity Compromise Investigation](https://github.com/JonSecOps/Cloud-Identity-Compromise-Investigation-)
 - [EC2 Incident Response Lifecycle](https://github.com/JonSecOps/EC2-INCIDENT-RESPONSE-LIFECYCLE)
 - [Detecting Local Account Creation (T1136.001) with Atomic Red Team and Splunk](https://github.com/JonSecOps/Detecting-Local-Account-Creation-T1136.001-with-Atomic-Red-Team-and-Splunk)
 - [Active Directory Attack Simulation & Detection](https://github.com/JonSecOps/Active-Directory-Attack-Simulation-Detection-/tree/main)
