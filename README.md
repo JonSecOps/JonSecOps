@@ -9,7 +9,7 @@
   
 🚀 I secure, analyze, and defend systems through hands-on threat detection, incident response, and digital forensics. My work blends technical precision with curiosity-driven exploration to uncover, understand, and mitigate cyber threats.
 
-💻 Core Focus: Cyber Forensics, Incident Response, SOC operations
+💻 Core Focus: DFIR, Cloud Forensics
 
 🔥 Always learning. Always defending. Always improving. 💯
 
