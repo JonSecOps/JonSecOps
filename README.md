@@ -1,6 +1,6 @@
 <div align="center">
 
-   # 🛡️ Jonathan McBride
+   # 🛡️ Jon McBride
   <a href="https://www.giac.org"><img src="./GCFE%20Badge.webp" alt="GCFE Badge" width="90" style="margin-right: 10px;" /></a>
   <a href="https://www.giac.org"><img src="./GCIH.webp" alt="GCIH Badge" width="90" style="margin-right: 10px;" /></a>
   <a href="https://www.giac.org"><img src="./GSEC.webp" alt="GSEC Badge" width="90" /></a>
