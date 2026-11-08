@@ -1,14 +1,20 @@
 <div align="center">
 
-# 🛡️ Jonathan McBride **(GCFE, GCIH, GSEC)**
-### **Digital Forensics & Incident Response (DFIR) Analyst**
+   # 🛡️ Jonathan McBride
+  <a href="https://www.giac.org"><img src="./GCFE%20Badge.webp" alt="GCFE Badge" width="90" style="margin-right: 10px;" /></a>
+  <a href="https://www.giac.org"><img src="./GCIH.webp" alt="GCIH Badge" width="90" style="margin-right: 10px;" /></a>
+  <a href="https://www.giac.org"><img src="./GSEC.webp" alt="GSEC Badge" width="90" /></a>
+</p>
+
+
+### Digital Forensics & Incident Response (DFIR) Analyst
+
 
 </div>
-
-<div align="center">
-  
+<div align="center">  
 🚀 Secure, analyze, and defend systems through hands-on threat detection, incident response, and digital forensics. My work blends technical precision with curiosity-driven exploration to uncover, understand, and mitigate cyber threats.
-
+</p>
+  
 💻 **Core Focus**: DFIR, Cloud Forensics
 
 🔥 **Always learning. Always defending. Always improving.** 💯
