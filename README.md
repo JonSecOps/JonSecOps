@@ -15,9 +15,9 @@
 🚀 I'm passionate about securing, analyzing, and defending systems through hands-on threat detection, incident response, and digital forensics. My work blends technical precision with curiosity-driven exploration to uncover, understand, and mitigate cyber threats.
 </p>
   
-🎯**Core Focus**: DFIR, Cloud Forensics
+🎯 **Core Focus**: DFIR, Cloud Forensics
 
-📚**Currently Learning:** Cloud Engineering
+📚 **Currently Learning:** Cloud Engineering
 
 🔥 **Always learning. Always defending. Always improving.** 💯
 
