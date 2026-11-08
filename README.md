@@ -23,7 +23,7 @@
 
 </div>
 
-## PROJECTS
+## Projects
 - [Automated Cloud DFIR Pipeline](https://github.com/JonSecOps/Automated-Cloud-DFIR-Pipeline-)
 - [S3 Data Exfiltration Forensics](https://github.com/JonSecOps/S3-Data-Exfiltration-Forensics)
 - [Cloud Identity Compromise Investigation](https://github.com/JonSecOps/Cloud-Identity-Compromise-Investigation-)
